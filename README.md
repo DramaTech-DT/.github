@@ -1,7 +1,7 @@
-# 💯 DramaTech
+# 💯 DramaTech: Games, Narrativas e Tecnologia
 
- Um grupo de pesquisa iniciado na Fatec Mauá, buscando aprender mais sobre desenvolvimento de jogos e desenvolver até o final deste ano a Demo do jogo "Trem de Dante" 
+Somos um grupo de pesquisa sediado na Faculdade de Tecnologia de Mauá (Fatec Mauá) e voltado às inter-relações entre storytelling e as demais áreas do circuito de produção de jogos digitais. Pretendemos desenvolver até o final do ano a demo do game O Trem de Dante, criado pelo grupo.
 
  ## Trem de Dante
   ### ✍️ STORYLINE
-  Um bilheteiro entra na mente das pessoas para resolver traumas e conseguir uma redenção; na verdade, ele está morto -  e possui contas a acertar com o seu passado.
+  Um bilheteiro entra na mente das pessoas para resolver traumas e conseguir uma redenção; na verdade, ele está morto - e possui contas a acertar com o seu passado.
